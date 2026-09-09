@@ -79,18 +79,28 @@ The menu is built with **UMG (Unreal Motion Graphics)** and is backed by a fully
 
 ## 📸 Screenshots
 
-> *Add your screenshots here to showcase the menu in action!*
->
-> Suggested captures:
-> - Main menu with the 3D environment and character visible
-> - Settings menu with dropdowns expanded
-> - Hover state on a button with visual feedback
-> - Quality preset comparison (Low vs Ultra)
+<table>
+  <tr>
+    <td align="center"><b>Logo</b></td>
+    <td align="center"><b>Splash Screen</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Logo.png" alt="ShooterGameUI Logo" width="100%"></td>
+    <td><img src="Screenshots/Splash Screen.png" alt="Splash Screen" width="100%"></td>
+  </tr>
+</table>
 
-<!-- 
-![Main Menu](Screenshots/main_menu.png)
-![Settings Menu](Screenshots/settings_menu.png)
-![Environment Backdrop](Screenshots/environment.png)
+<!-- Add future screenshots below in 2-column rows:
+<table>
+  <tr>
+    <td align="center"><b>Caption 1</b></td>
+    <td align="center"><b>Caption 2</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/your_image_1.png" alt="Description" width="100%"></td>
+    <td><img src="Screenshots/your_image_2.png" alt="Description" width="100%"></td>
+  </tr>
+</table>
 -->
 
 ---

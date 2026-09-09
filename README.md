@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="Screenshots/Logo.png" alt="ShooterGameUI Logo" width="200">
+
 # 🎮 ShooterGameUI
 
 ### A Polished Main Menu & Settings System for Unreal Engine 5.6
@@ -7,7 +9,11 @@
 *Featuring a fully crafted 3D sci-fi environment backdrop, animated hero character,  
 interactive UMG widgets with audio feedback, sliding transitions, and functional graphics settings.*
 
----
+<br>
+
+<img src="Screenshots/Splash%20Screen.png" alt="Splash Screen" width="80%">
+
+<br>
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-5.6-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/Blueprints-Visual_Scripting-137CBD?style=for-the-badge&logo=blueprint&logoColor=white)
@@ -86,7 +92,7 @@ The menu is built with **UMG (Unreal Motion Graphics)** and is backed by a fully
   </tr>
   <tr>
     <td><img src="Screenshots/Logo.png" alt="ShooterGameUI Logo" width="100%"></td>
-    <td><img src="Screenshots/Splash Screen.png" alt="Splash Screen" width="100%"></td>
+    <td><img src="Screenshots/Splash%20Screen.png" alt="Splash Screen" width="100%"></td>
   </tr>
 </table>
 

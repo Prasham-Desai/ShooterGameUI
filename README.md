@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🎮 ShooterGameUI
 
@@ -323,4 +323,3 @@ This project is for **educational and portfolio purposes**. Asset packs (Paragon
 *Main Menu • Settings System • Environment Art • UI/UX Design*
 
 </div>
-]]>

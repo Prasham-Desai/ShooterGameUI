@@ -61,10 +61,7 @@ The menu is built with **UMG (Unreal Motion Graphics)** and is backed by a fully
 - **Graphics Quality Presets** — Fully functional quality settings with **Low**, **Medium**, **High**, and **Ultra** presets that apply real Scalability Group changes at runtime
 - **Gamma / Brightness Control** — Slider-based gamma adjustment for player comfort
 - **Difficulty Selection** — Dropdown-based difficulty picker with named presets
-- **Resolution & Display Options** — Dropdown combo boxes for screen resolution and display mode
 - **Interactive Dropdowns (Combo Boxes)** — Custom-styled dropdown selectors with hover and click audio responses
-- **Sliders with Audio Feedback** — Value sliders that provide audio cues on interaction
-- **Apply Settings Button** — Dedicated apply button that commits all changes, ensuring settings are only saved when the player confirms
 
 ### 🌍 3D Environment Backdrop
 - **Modular Sci-Fi Mechanic Base** — A full environment assembled from modular sci-fi structural pieces, pipes, cables, props, and landscape elements

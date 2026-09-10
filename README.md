@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Screenshots/Logo.png" alt="ShooterGameUI Logo" width="200">
+<img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/Logo.png" alt="ShooterGameUI Logo" width="200">
 
 # 🎮 ShooterGameUI
 
@@ -11,7 +11,7 @@ interactive UMG widgets with audio feedback, sliding transitions, and functional
 
 <br>
 
-<img src="Screenshots/Splash%20Screen.png" alt="Splash Screen" width="80%">
+<img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/Splash%20Screen.png" alt="Splash Screen" width="80%">
 
 <br>
 
@@ -68,7 +68,6 @@ The menu is built with **UMG (Unreal Motion Graphics)** and is backed by a fully
 
 ### 🌍 3D Environment Backdrop
 - **Modular Sci-Fi Mechanic Base** — A full environment assembled from modular sci-fi structural pieces, pipes, cables, props, and landscape elements
-- **Sicka Environment Packs** — Additional environmental detail from Sicka Sci-Fi Interior, Sicka Sci-Fi Interior 2, and Sicka Ancient Kit asset packs, adding depth and visual variety
 - **Paragon Twinblast Character** — The iconic dual-pistol hero stands in the menu scene with a full **Animation Blueprint**, idle animations, and select-screen poses
 - **VFX & Particles** — Dust particle systems (`NS_DUST`) and Twinblast FX bring atmospheric depth to the scene
 - **Cinematic Lighting** — Carefully authored lighting with Lumen Global Illumination, Virtual Shadow Maps, and local exposure tuning for a dramatic, moody aesthetic
@@ -91,8 +90,8 @@ The menu is built with **UMG (Unreal Motion Graphics)** and is backed by a fully
     <td align="center"><b>Splash Screen</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/Logo.png" alt="ShooterGameUI Logo" width="100%"></td>
-    <td><img src="Screenshots/Splash%20Screen.png" alt="Splash Screen" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/Logo.png" alt="ShooterGameUI Logo" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/Splash%20Screen.png" alt="Splash Screen" width="100%"></td>
   </tr>
 </table>
 
@@ -161,7 +160,7 @@ ShooterGameUI/
 │   │   ├── Lvl_Menu.umap                 # Full menu level with 3D environment
 │   │   └── Lvl_Menu_BuiltData.uasset     # Pre-built lighting data
 │   │
-│   ├── Modular_Scifi_Mechanic_Base/       # 🏗️ Modular sci-fi environment kit
+│   ├── Modular_Scifi_Mechanic_Base/       # 🏗️ Modular sci-fi environment kit (⬇️ Download from Fab)
 │   │   ├── BP/                            # Environment blueprints
 │   │   ├── Material/ (MF, MI, MM)         # Material functions, instances, masters
 │   │   ├── Mesh/SM/                       # Static meshes (structures, cables, props)
@@ -169,7 +168,7 @@ ShooterGameUI/
 │   │   ├── VFX/                           # Dust particles (NS_DUST, FXS_DUST)
 │   │   └── Map/                           # Demo map
 │   │
-│   ├── ParagonTwinblast/                  # 🦸 Hero character assets
+│   ├── ParagonTwinblast/                  # 🦸 Hero character assets (⬇️ Download from Fab)
 │   │   ├── Characters/Heroes/TwinBlast/
 │   │   │   ├── Animations/ (211 anims)    # Full animation set (idle, combat, emotes)
 │   │   │   ├── TwinblastPlayerCharacter   # Player character blueprint
@@ -180,11 +179,6 @@ ShooterGameUI/
 │   │   │   ├── Sounds/                    # Character audio
 │   │   │   └── Textures/                  # Character textures
 │   │   └── FX/                            # Character particle effects
-│   │
-│   ├── Sicka_EnvPack2/                    # 🏛️ Additional environment kits
-│   │   ├── Sicka_Ancient_Kit/             # Ancient-themed meshes & materials
-│   │   ├── Sicka_Scifi_Interior/          # Sci-fi interior set 1
-│   │   └── Sicka_Scifi_Interior2/         # Sci-fi interior set 2 (+ holograms)
 │   │
 │   └── Sounds/
 │       └── MenuSound                      # Menu background music / ambience
@@ -229,13 +223,15 @@ The project is configured for maximum visual fidelity:
 
 ## 📦 Asset Packs Used
 
-| Asset Pack | Usage |
-|---|---|
-| **Paragon: Twinblast** | Hero character model, 211+ animations, Animation Blueprint, FX, materials, and skins |
-| **Modular Sci-Fi: Mechanic Base** | Core environment kit — modular structures, cables/pipes, props, landscape elements, materials, and dust VFX |
-| **Sicka Environment Pack 2** | Supplementary environment detail — Sci-Fi Interior 1 & 2 (including holograms), Ancient Kit |
-| **UE5 Mannequins** | Default character mannequins (reference/prototyping) |
-| **Level Prototyping** | Blockout meshes, interactables, and prototyping materials |
+> [!IMPORTANT]
+> The **Paragon: Twinblast** and **Modular Sci-Fi: Mechanic Base** asset packs are **not included** in this repository due to their large file sizes. You must download them separately from **[Fab](https://www.fab.com/)** (Epic Games' asset marketplace) and add them to the project's `Content/` folder for the project to work correctly.
+
+| Asset Pack | Usage | Source |
+|---|---|---|
+| **Paragon: Twinblast** | Hero character model, 211+ animations, Animation Blueprint, FX, materials, and skins | ⬇️ [Download from Fab](https://www.fab.com/listings/3c2500d8-0499-47a4-bb0d-2655ea474e97) |
+| **Modular Sci-Fi: Mechanic Base** | Core environment kit — modular structures, cables/pipes, props, landscape elements, materials, and dust VFX | ⬇️ [Download from Fab](https://www.fab.com/) |
+| **UE5 Mannequins** | Default character mannequins (reference/prototyping) | Included with UE5 |
+| **Level Prototyping** | Blockout meshes, interactables, and prototyping materials | Included with UE5 |
 
 ---
 
@@ -255,12 +251,17 @@ The project is configured for maximum visual fidelity:
    git clone https://github.com/Prasham-Desai/ShooterGameUI.git
    ```
 
-2. **Open the project**
+2. **Download required asset packs from [Fab](https://www.fab.com/)**
+   - **[Paragon: Twinblast](https://www.fab.com/listings/3c2500d8-0499-47a4-bb0d-2655ea474e97)** — Add to `Content/ParagonTwinblast/`
+   - **Modular Sci-Fi: Mechanic Base** — Add to `Content/Modular_Scifi_Mechanic_Base/`
+   > These assets are too large to host on GitHub and must be downloaded separately.
+
+3. **Open the project**
    - Launch Unreal Engine 5.6
    - Open `ShooterGameUI.uproject`
    - Wait for shaders to compile on first launch (this may take several minutes)
 
-3. **Play the menu**
+4. **Play the menu**
    - The project defaults to `Lvl_Menu` as the startup map
    - Press **Play in Editor (PIE)** or **Standalone Game** to experience the full menu
    - The custom `BP_ShooterGameMode` is set as the global default Game Mode
@@ -328,7 +329,7 @@ The default startup map is set to `Lvl_Menu` in both the editor and packaged bui
 
 ## 📝 License
 
-This project is for **educational and portfolio purposes**. Asset packs (Paragon Twinblast, Modular Sci-Fi, Sicka Environment Pack) are subject to their respective licenses from the Unreal Engine Marketplace and Epic Games.
+This project is for **educational and portfolio purposes**. Asset packs (Paragon Twinblast, Modular Sci-Fi Mechanic Base) are subject to their respective licenses from [Fab](https://www.fab.com/) and Epic Games.
 
 ---
 

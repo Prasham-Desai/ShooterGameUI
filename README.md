@@ -83,27 +83,18 @@ The menu is built with **UMG (Unreal Motion Graphics)** and is backed by a fully
 
 <table>
   <tr>
-    <td align="center"><b>Logo</b></td>
-    <td align="center"><b>Splash Screen</b></td>
+    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/SS1.png" alt="Screenshot 1" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/SS2.png" alt="Screenshot 2" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/Logo.png" alt="ShooterGameUI Logo" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/Splash%20Screen.png" alt="Splash Screen" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/SS3.png" alt="Screenshot 3" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/SS4.png" alt="Screenshot 4" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/SS5.png" alt="Screenshot 5" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/SS6.png" alt="Screenshot 6" width="100%"></td>
   </tr>
 </table>
-
-<!-- Add future screenshots below in 2-column rows:
-<table>
-  <tr>
-    <td align="center"><b>Caption 1</b></td>
-    <td align="center"><b>Caption 2</b></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/your_image_1.png" alt="Description" width="100%"></td>
-    <td><img src="Screenshots/your_image_2.png" alt="Description" width="100%"></td>
-  </tr>
-</table>
--->
 
 ---
 

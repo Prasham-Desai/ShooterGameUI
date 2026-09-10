@@ -130,14 +130,6 @@ ShooterGameUI/
 │   │       ├── WBP_MainMenu               # Main Menu UMG widget (buttons, animations)
 │   │       └── WBP_SettingsMenu           # Settings Menu UMG widget (sliders, dropdowns)
 │   │
-│   ├── Characters/
-│   │   └── Mannequins/                    # Default UE5 mannequin assets
-│   │
-│   ├── FirstPerson/
-│   │   ├── Anims/                         # First-person animation assets
-│   │   ├── Blueprints/                    # First-person blueprint logic
-│   │   └── Lvl_FirstPerson.umap           # First-person test level
-│   │
 │   ├── Fonts/
 │   │   ├── Coalition_v2_                  # Coalition v2 font (main headings)
 │   │   └── Michroma-Regular               # Michroma font (body/UI text)
@@ -156,7 +148,6 @@ ShooterGameUI/
 │   │       └── UI_TouchSimple             # Simplified touch UI widget
 │   │
 │   ├── Levels/
-│   │   ├── Lvl_MainMenu.umap             # Main menu level (lightweight)
 │   │   ├── Lvl_Menu.umap                 # Full menu level with 3D environment
 │   │   └── Lvl_Menu_BuiltData.uasset     # Pre-built lighting data
 │   │

@@ -273,7 +273,6 @@ The project is configured for maximum visual fidelity:
 | **Touch Drag** | Virtual thumbstick navigation (if applicable) |
 | **Dropdown Click** | Opens combo box options with audio feedback |
 | **Slider Drag** | Adjusts value (gamma, volume, etc.) with audio cue |
-| **Apply Settings** | Commits all changed settings to the engine |
 
 ---
 

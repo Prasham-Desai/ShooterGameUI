@@ -1,4 +1,8 @@
 ﻿<div align="center">
+  <img src="Screenshots/github-intro-banner.svg" width="100%" alt="Intro Banner"/>
+</div>
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/Logo.png" alt="ShooterGameUI Logo" width="200">
 
@@ -322,7 +326,5 @@ This project is for **educational and portfolio purposes**. Asset packs (Paragon
 ---
 
 <div align="center">
-<sub>Built with &#x2764;&#xFE0F; using Unreal Engine 5</sub>
-<br><br>
 <img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>

@@ -322,7 +322,7 @@ This project is for **educational and portfolio purposes**. Asset packs (Paragon
 ---
 
 <div align="center">
-<sub>Built with â¤ï¸ using Unreal Engine 5</sub>
+<sub>Built with &#x2764;&#xFE0F; using Unreal Engine 5</sub>
 <br><br>
 <img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>

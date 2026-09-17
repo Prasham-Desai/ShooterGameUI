@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://raw.githubusercontent.com/Prasham-Desai/ShooterGameUI/main/Screenshots/Logo.png" alt="ShooterGameUI Logo" width="200">
 
@@ -317,4 +317,12 @@ This project is for **educational and portfolio purposes**. Asset packs (Paragon
 
 *Main Menu • Settings System • Environment Art • UI/UX Design*
 
+</div>
+
+---
+
+<div align="center">
+<sub>Built with â¤ï¸ using Unreal Engine 5</sub>
+<br><br>
+<img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>

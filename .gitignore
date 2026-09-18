@@ -24,7 +24,8 @@ Build/
 !Build/Android/
 !Build/IOS/
 !Build/Windows/
-
+Modular_Scifi_Mechanic_Base/
+ParagonTwinblast/
 # Mac / Windows OS specific files
 .DS_Store
 .DS_Store?
